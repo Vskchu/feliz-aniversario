@@ -3,7 +3,7 @@
   "name": "Giorna",
   "greetingText": "Sempre gostei desse apelido seu!",
   "wishText": "Espero que seu dia seja muito feliz",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/giorna.png",
   "text1": "É o seu aniversário!!! :D",
   "textInChatBox": "Feliz aniversário pra você!! Eeee! Muitas muitas felicidades blah...",
   "sendButtonLabel": "Enviar",
@@ -16,8 +16,8 @@
   "smiley": "S2",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "HFeliz aniversário!",
-  "outroText": "Certo, agora volte e me diz se você gostou.",
+  "wishHeading": "Feliz aniversário!",
+  "outroText": "Certo, agora volta e me diz se você gostou.",
   "replayText": "Oou clique aqui, se você quer assistir de novo.",
   "outroSmiley": ":)"
 }
